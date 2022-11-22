@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="_17_c">17°C</string>
+    <string name="high_19_c">High: 19°C</string>
+    <string name="low_14_c">Low: 14°C</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="new_york_us">New York, US</string>
+    <string name="updated_at_24_09_2022_10_29_am">updated at: 24/09/2022 10:29 AM</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunrise_time">06:45 AM</string>
+    <string name="_06_50_pm">06:50 PM</string>
+    <string name="_0_45">0.45</string>
+    <string name="pressure">Pressure</string>
+    <string name="_1018">1018</string>
+    <string name="humidity">Humidity</string>
+    <string name="_70">70</string>
+    <string name="refresh">Refresh</string>
+    <string name="data">Data</string>
+</resources>
